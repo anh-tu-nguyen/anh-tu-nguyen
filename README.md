@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anh-tu-nguyen
+- 👋 Hi, I’m Anh Tu!
 
 
 <!---
